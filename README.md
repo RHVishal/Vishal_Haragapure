@@ -47,20 +47,7 @@ Comprehensive test scenarios for FreeRTOS APIs focusing on boundary conditions, 
 - Direct to Task Notification
 - RTOS Kernel Control
 
-📁 Repo: `freertos-api-tests`
-
----
-
-### 🔹 AUTOSAR OS Scheduling Analysis
-**Description:**  
-Demonstrates AUTOSAR OS task scheduling, priority handling, and preemption behavior.
-
-**Key Topics:**  
-- Basic & Extended Tasks  
-- Events & Alarms  
-- Priority inversion scenarios  
-
-📁 Repo: `autosar-os-scheduling`
+📁 Repo: `rtos_concepts`
 
 ---
 
@@ -73,7 +60,7 @@ LIN master simulation using Vector SIL Kit for schedule table handling and frame
 - Schedule tables  
 - Error detection & recovery  
 
-📁 Repo: `lin-master-sil-kit`
+📁 Repo: `lin_protocol`
 
 ---
 
