@@ -65,7 +65,7 @@ LIN master simulation using Vector SIL Kit for schedule table handling and frame
 ---
 
 ## 📄 Resume
-📌 [Download Resume](#) *(Add Google Drive or PDF link)*
+📌 [Download Resume](#) *https://drive.google.com/file/d/17eBFngstp343eSQoOrImpaq7SaaXvo-B/view?usp=drive_link*
 
 ---
 
